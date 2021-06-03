@@ -24,7 +24,7 @@ const quotes=[
     "quote": "A broken clock is right twice a day.",
     "author": "Unknown"
     }, {
-    "quote": "Stress is a choice",
+    "quote": "Stress is a choice.",
     "author": "Unknown"
     }, {
     "quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
