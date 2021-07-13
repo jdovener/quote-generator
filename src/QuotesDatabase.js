@@ -86,6 +86,12 @@ const quotes=[
     }, {
     "quote": "Let he who is without sin cast the first stone.",
     "author": "Jesus Christ"
+    }, {
+    "quote": "Tomorrow never comes.",
+    "author": "Unknown"
+    }, {
+    "quote": "Time waits for no man.",
+    "author": "Unknown"
     }
 ]
 export default quotes
