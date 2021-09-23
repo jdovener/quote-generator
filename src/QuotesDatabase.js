@@ -92,6 +92,9 @@ const quotes=[
     }, {
     "quote": "Time waits for no man.",
     "author": "Unknown"
+    }, {
+    "quote": "You shape and are shaped by your environment.",
+    "author": "Unknown"
     }
 ]
 export default quotes
