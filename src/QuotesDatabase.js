@@ -95,7 +95,7 @@ const quotes=[
     }, {
     "quote": "You shape and are shaped by your environment.",
     "author": "Unknown"
-    }
+    },
     {
     "quote": "The enemy of art is the absence of limitations.",
     "author": "Orson Welles"
