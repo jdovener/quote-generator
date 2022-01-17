@@ -99,6 +99,10 @@ const quotes=[
     {
     "quote": "The enemy of art is the absence of limitations.",
     "author": "Orson Welles"
+    },
+    {
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb"
     }
 ]
 export default quotes
