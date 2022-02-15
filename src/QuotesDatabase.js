@@ -103,6 +103,14 @@ const quotes=[
     {
     "quote": "Fall seven times, stand up eight.",
     "author": "Japanese Proverb"
+    },
+    {
+    "quote": "A broken clock is right twice a day.",
+    "author": "Unknown"
+    },
+    {
+    "quote": "Progression isn't linear.",
+    "author": "Unknown"
     }
 ]
 export default quotes
