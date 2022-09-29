@@ -111,6 +111,38 @@ const quotes=[
     {
     "quote": "Progression isn't linear.",
     "author": "Unknown"
+    },
+    {
+    "quote": "Nobody cares if you don't go to the party.",
+    "author": "Unknown"
+    },
+    {
+    "quote": "Nobodies reality is an less real than anyone else's.",
+    "author": "Albert Hoffman"
+    },
+    {
+    "quote": "The early bird gets the worm, the second mouse gets the cheese.",
+    "author": "Unknown"
+    },
+    {
+    "quote": "No amount of money ever bought a second of time.",
+    "author": "Unknown"
+    },
+    {
+    "quote": "Only when the last tree has been cut down, the last fish been caught, and the last stream poisoned, will we realise we cannot eat money.",
+    "author": "Cree Indian Prophecy"
+    },
+    {
+    "quote": "No news is good news.",
+    "author": "Unknown"
+    },
+    {
+    "quote": "A pair of threes beats an ace.",
+    "author": "Unknown"
+    },
+    {
+    "quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned..",
+    "author": "Buddha"
     }
 ]
 export default quotes
