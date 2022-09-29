@@ -23,7 +23,7 @@ class QuoteAndAuthor extends React.Component {
           id="newquote"
           onClick={this.props.handleClick}
         >
-          Random quote
+          Random quote1
         </button>
       </div>
     );
