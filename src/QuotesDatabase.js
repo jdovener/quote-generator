@@ -6,9 +6,6 @@ const quotes=[
     "quote": "One's reach should always exceed one's grasp.",
     "author": "Robert Browning"
     }, {
-    "quote": "The placebo effect still works even if you know you are under the effect of a placebo.",
-    "author": "Unknown"
-    }, {
     "quote": "People will forget what you said, people will forget what you did, but they will never forget how you made them feel.",
     "author": "Maya Angelou"
     }, {
