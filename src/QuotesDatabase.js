@@ -141,8 +141,12 @@ const quotes=[
     "author": "Unknown"
     },
     {
-    "quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned..",
+    "quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned...",
     "author": "Buddha"
+    },
+    {
+    "quote": "True discipline is delaying gratification",
+    "author": "Unknown"
     }
 ]
 export default quotes
