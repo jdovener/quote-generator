@@ -21,16 +21,13 @@ const quotes=[
     "quote": "A broken clock is right twice a day.",
     "author": "Unknown"
     }, {
-    "quote": "Stress is a choice.",
-    "author": "Unknown"
-    }, {
     "quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
     "author": "Abraham Lincoln"
     }, {
     "quote": "Ownership is a concept.",
     "author": "Unknown"
     }, {
-    "quote": "A good quote is the amalgamation of a lifetime's worth of thinking.",
+    "quote": "A good quote is the amalgamation of a lifetime's-worth of thinking.",
     "author": "Unknown"
     }, {
     "quote": "To bake an apple pie from scratch, you must first invent the universe.",
