@@ -79,7 +79,7 @@ const quotes=[
     "author": "A wise friend"
     }, {
     "quote": "Let he who is without sin cast the first stone.",
-    "author": "Jesus Christ"
+    "author": "Unknown"
     }, {
     "quote": "Tomorrow never comes.",
     "author": "Unknown"
@@ -111,7 +111,7 @@ const quotes=[
     "author": "Unknown"
     },
     {
-    "quote": "Nobodies reality is an less real than anyone else's.",
+    "quote": "Nobody's reality is any less real than anybody else's.",
     "author": "Albert Hoffman"
     },
     {
@@ -135,7 +135,7 @@ const quotes=[
     "author": "Unknown"
     },
     {
-    "quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned...",
+    "quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned. You will not be punished FOR your actions, you will be punished BY them.",
     "author": "Buddha"
     },
     {
